@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Kamenow
-![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![](https://github.com/Kamenow/Kamenow/blob/main/baner3.jpg)
 
 I am a frontend developer from Bulgaria
 
