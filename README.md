@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kamenow</h1>
 
-[![MasterHead](https://github.com/Kamenow/Kamenow/blob/main/header.png)](https://github.com/Kamenow)
+[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fprogramming&psig=AOvVaw2T6ba9JT6--qZtkwii3AL5&ust=1646238623899000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLjynPaqpfYCFQAAAAAdAAAAABAD)](https://github.com/Kamenow)
 
 <h3 align="center">A passionate frontend developer from Bulgaria</h3>
 
