@@ -14,7 +14,7 @@ I am a frontend developer from Bulgaria
 
 <h2 align="left">🔢 GitHub Statistics:</h2>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kamenow&show_icons=true&count_private=true&theme=radical)  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kamenow&show_icons=true&count_private=true&theme=radical)
 
 <!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Kamenow)   -->
 
