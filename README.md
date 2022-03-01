@@ -8,11 +8,11 @@ I am a frontend developer from Bulgaria
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Kamenow)](https://github.com/ryo-ma/github-profile-trophy) -->
 
-<h2 align="left">🔧 Most Used Languages:</h2>
+<h2 align="left">💥 Most Used Languages:</h2>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kamenow)](https://github.com/anuraghazra/github-readme-stats)
 
-<h2 align="left">🔧 GitHub Statistics:</h2>
+<h2 align="left">🔢 GitHub Statistics:</h2>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kamenow&show_icons=true&count_private=true&theme=radical)  
 
