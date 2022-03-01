@@ -1,5 +1,3 @@
-### Hi there 👋
-
 [![MasterHead](https://github.com/Kamenow/Kamenow/blob/main/header.png)](https://github.com/Kamenow)
 
 <!--
