@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Yavor Kamenow
+<!-- ### Hi there 👋, my name is Yavor Kamenow
 ![](https://github.com/Kamenow/Kamenow/blob/main/baner3.jpg)
 
 I am a frontend developer from Bulgaria
@@ -34,3 +34,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ -->
