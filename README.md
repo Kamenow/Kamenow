@@ -1,4 +1,4 @@
-<!-- ### Hi there 👋, my name is Yavor Kamenow
+ ### Hi there 👋, my name is Yavor Kamenow
 ![](https://github.com/Kamenow/Kamenow/blob/main/baner3.jpg)
 
 I am a frontend developer from Bulgaria
@@ -16,7 +16,7 @@ I am a frontend developer from Bulgaria
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kamenow&show_icons=true&theme=radical)
 
-<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Kamenow)   -->
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Kamenow)  
 
 
 
@@ -34,4 +34,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- -->
